@@ -20,6 +20,6 @@
 
 <stylesheet>
 .background{
-  color: black;
+  color: #00000;
   }
 </stylesheet>
