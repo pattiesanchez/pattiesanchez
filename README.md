@@ -9,8 +9,17 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattiesanchez&layout=compact">
 </div>
 
-<div style="display: inline_block" stylesheet="background-color:black"><br>
-  <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-          
+<div class="background"> 
+  <div style="display: inline_block"><br>
+    <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 
+
+
+  </div>
 </div>
+
+<style>
+.background{
+  color: black;
+  
+</style>
