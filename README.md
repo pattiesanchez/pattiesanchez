@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/pattiesanchez">
-  <img width="180em" src="https://github-readme-stats.vercel.app/api?username=pattiesanchez&show_icons=true&theme=tokyonight">
-  <img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattiesanchez&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pattiesanchez&show_icons=true&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattiesanchez&layout=compact">
 </div>
 
 ## Skills
