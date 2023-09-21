@@ -1,3 +1,5 @@
+Hi, i'm Patricia, nice to meet you!
+
 <div>
   <a href="https://github.com/pattiesanchez">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=pattiesanchez&show_icons=true&theme=synthwave">
