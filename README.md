@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/pattiesanchez">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=pattiesanchez&show_icons=true&theme=tokyonight">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattiesanchez&layout=compact">
+  <img width="405%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattiesanchez&layout=compact">
 </div>
 
 ## Skills
