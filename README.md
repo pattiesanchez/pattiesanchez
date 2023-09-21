@@ -18,8 +18,8 @@
   </div>
 </div>
 
-<style>
+<stylesheet>
 .background{
   color: black;
-  
-</style>
+  }
+</stylesheet>
