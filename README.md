@@ -1,7 +1,6 @@
 ## Hi, i'm Patrícia, nice to meet you!
 
-- 🔭 I'm frontend developer in progress 
-- 🌱 I'm currently learning Python and Vuejs
+- 🔭 I'm fullstack developer in progress 
 
 <div>
   <a href="https://github.com/pattiesanchez">
