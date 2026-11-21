@@ -1,6 +1,6 @@
 ## Hi, i'm Patrícia, nice to meet you!
 
-- 🔭 I'm fullstack developer in progress 
+- 🔭 I'm software developer in progress 
 
 <div>
   <a href="https://github.com/pattiesanchez">
